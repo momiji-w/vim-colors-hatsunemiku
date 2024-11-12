@@ -83,7 +83,7 @@ hi Folded guifg=#dcd7d7 ctermfg=188 guibg=#7b8b99 ctermbg=245 gui=NONE cterm=NON
 hi FoldColumn guifg=#dcd7d7 ctermfg=188 guibg=#7b8b99 ctermbg=245 gui=NONE cterm=NONE
 hi SignColumn guifg=#dcd7d7 ctermfg=188 guibg=NONE ctermbg=NONE gui=Bold cterm=Bold
 hi IncSearch guifg=NONE ctermfg=NONE guibg=#4d4d43 ctermbg=239 gui=NONE cterm=NONE
-hi LineNr guifg=#7b8b99 ctermfg=245 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi LineNr guifg=#7b8b99 ctermfg=245 guibg=#000000 ctermbg=0 gui=NONE cterm=NONE
 hi MatchParen guifg=NONE ctermfg=NONE guibg=#7b8b99 ctermbg=245 gui=NONE cterm=NONE
 hi ModeMsg guifg=#dcd7d7 ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi MoreMsg guifg=#dcd7d7 ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
