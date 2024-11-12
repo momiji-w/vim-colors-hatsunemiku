@@ -12,18 +12,18 @@ let s:p = {"normal": {}, "inactive": {}, "insert": {}, "replace": {}, "visual": 
 let s:p.normal.left = [[["#dcd7d7", 188], ["#4a4b4b", 239]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
 let s:p.normal.middle = [[["#dcd7d7", 188], ["#4a4b4b", 239]]]
 let s:p.normal.right = [[["#4a4b4b", 239], ["#dcd7d7", 188]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
-let s:p.normal.error = [[["#dcd7d7", 188], ["#df2683", 162]]]
+let s:p.normal.error = [[["#dcd7d7", 188], ["#ff4383", 204]]]
 let s:p.normal.warning = [[["#4a4b4b", 239], ["#fcfcdf", 230]]]
 
 let s:p.inactive.left = [[["#7b8b99", 245], ["#4a4b4b", 239]], [["#7b8b99", 245], ["#4a4b4b", 239]]]
 let s:p.inactive.middle = [[["#7b8b99", 245], ["#4a4b4b", 239]]]
 let s:p.inactive.right = [[["#7b8b99", 245], ["#4a4b4b", 239]], [["#7b8b99", 245], ["#4a4b4b", 239]]]
 
-let s:p.insert.left = [[["#dcd7d7", 188], ["#13868c", 30]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
+let s:p.insert.left = [[["#dcd7d7", 188], ["#39c5bb", 79]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
 let s:p.insert.middle = [[["#dcd7d7", 188], ["#4a4b4b", 239]]]
 let s:p.insert.right = [[["#4a4b4b", 239], ["#dcd7d7", 188]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
 
-let s:p.replace.left = [[["#dcd7d7", 188], ["#df2683", 162]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
+let s:p.replace.left = [[["#dcd7d7", 188], ["#ff4383", 204]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
 let s:p.replace.middle = [[["#dcd7d7", 188], ["#4a4b4b", 239]]]
 let s:p.replace.right = [[["#4a4b4b", 239], ["#dcd7d7", 188]], [["#dcd7d7", 188], ["#4a4b4b", 239]]]
 

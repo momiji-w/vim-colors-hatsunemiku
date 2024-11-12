@@ -14,12 +14,12 @@ let s:normal2 = [ "#4a4b4b", "#dcd7d7", 239, 188 ]
 let s:normal3 = [ "#dcd7d7", "#4a4b4b", 188, 239 ]
 let g:airline#themes#hatsunemiku#palette.normal = airline#themes#generate_color_map(s:normal1, s:normal2, s:normal3)
 
-let s:insert1 = [ "#dcd7d7", "#13868c", 188, 30 ]
+let s:insert1 = [ "#dcd7d7", "#39c5bb", 188, 79 ]
 let s:insert2 = [ "#4a4b4b", "#dcd7d7", 239, 188 ]
 let s:insert3 = [ "#dcd7d7", "#4a4b4b", 188, 239 ]
 let g:airline#themes#hatsunemiku#palette.insert = airline#themes#generate_color_map(s:insert1, s:insert2, s:insert3)
 
-let s:replace1 = [ "#dcd7d7", "#df2683", 188, 162 ]
+let s:replace1 = [ "#dcd7d7", "#ff4383", 188, 204 ]
 let s:replace2 = [ "#4a4b4b", "#dcd7d7", 239, 188 ]
 let s:replace3 = [ "#dcd7d7", "#4a4b4b", 188, 239 ]
 let g:airline#themes#hatsunemiku#palette.replace = airline#themes#generate_color_map(s:replace1, s:replace2, s:replace3)
